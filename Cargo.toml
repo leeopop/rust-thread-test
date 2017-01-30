@@ -4,5 +4,5 @@ version = "0.1.0"
 authors = ["Keunhong Lee <dlrmsghd@gmail.com>"]
 
 [[bin]]
-name = "thread_test"
+name = "thread_main"
 path = "src/main.rs"
